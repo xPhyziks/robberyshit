@@ -1,0 +1,15 @@
+{
+    "SqueezyOTP": {
+      "Estate": {    
+        "EstateUser": "squeezy",
+        "EstateToken": "S5fxOpA1vGalAJJzHwzgsHixk6hFn1MpKxH39tmhuGHzmHlLl4mS5eXtGzWv91uC"
+      }   
+    },
+    "SqueezyAIO": {
+      "Basic_Settings": {    
+        "Color": "blueviolet",
+        "Ascii": "Graffiti",
+        "Name": "SqueezyAIO"
+      }   
+    }
+  }
